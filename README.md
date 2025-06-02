@@ -6,24 +6,18 @@ Clean and preprocess the raw Netflix Movies and TV Shows dataset to make it read
 ## ✅ Steps Performed:
 
 1. *Handled Missing Values*:
-   - Checked all columns using .isnull()
-   - No missing values found
-
+   checked the blanks and deleted te row
+  
 2. *Removed Duplicates*:
-   - Checked for duplicates using .duplicated()
-   - No duplicate rows found
-
+   
 3. *Standardized Text Columns*:
-   - Stripped leading/trailing whitespace from all string columns
-
+ 
 4. *Date Formatting*:
-   - Converted date_added column to consistent datetime format with dayfirst=True
-
+   
 5. *Column Renaming*:
-   - Renamed all column headers to lowercase and snake_case
-
+   
 6. *Verified Data Types*:
-   - Confirmed all columns have appropriate data types (e.g., date_added as datetime, release_year as integer)
+
 
 ## 📁 Output:
 Cleaned dataset with 5348 rows and 12 columns
