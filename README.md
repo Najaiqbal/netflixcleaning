@@ -26,7 +26,7 @@ Clean and preprocess the raw Netflix Movies and TV Shows dataset to make it read
    - Confirmed all columns have appropriate data types (e.g., date_added as datetime, release_year as integer)
 
 ## 📁 Output:
-- netflix_cleaned.csv — Cleaned dataset with 5348 rows and 12 columns
+Cleaned dataset with 5348 rows and 12 columns
 
 
 
