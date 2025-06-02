@@ -28,9 +28,7 @@ Clean and preprocess the raw Netflix Movies and TV Shows dataset to make it read
 ## 📁 Output:
 - netflix_cleaned.csv — Cleaned dataset with 5348 rows and 12 columns
 
-## 📌 Tools Used:
-- Python 3
-- Pandas
+
 
 ## 🗃 Dataset Source:
 - [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
